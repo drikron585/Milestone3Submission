@@ -10,6 +10,7 @@ Download Repo
 run
 ----
 npm install
-expo starts
+
+expo start
 
 Scan QR code wit expo app
