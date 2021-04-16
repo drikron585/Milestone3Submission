@@ -13,4 +13,4 @@ npm install
 
 expo start
 
-Scan QR code wit expo app
+Scan QR code with expo app
