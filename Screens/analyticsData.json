@@ -1,0 +1,59 @@
+//const customData = require('./customData.json');
+// import customData from './customData.json';
+
+[
+    {
+        "name" : "Leg Press",
+        "weights" : [50,60,60,55,65,80],
+        "personalRecord" : [55,60,60,60,65,80],
+        "months" : ["December", "January", "Febuary", "March","April"]
+    },
+    {
+        "name" : "Bicep Curls",
+        "weights" : [20,25,20,20,20,25],
+        "personalRecord" :[20,25,25,25,25,25],
+        "months" : ["December", "January", "Febuary", "March","April"]      
+    },
+    {
+        "name" : "Bench Press",
+        "weights" : [150,155,160,165,170,180],
+        "personalRecord" :[150,155,160,165,170,180],
+        "months" : ["December", "January", "Febuary", "March","April"]      
+    },
+    {
+        "name" : "Squats",
+        "weights" : [50,75,70,80,100,90],
+        "personalRecord" :[50,75,75,80,100,100],
+        "months" : ["December", "January", "Febuary", "March","April"]      
+    },
+    {
+        "name" : "Tricep Extensions",
+        "weights" : [15,20,25,25,30,20],
+        "personalRecord" :[15,20,25,25,30,30],
+        "months" : ["December", "January", "Febuary", "March","April"]      
+    },
+    {
+        "name" : "Incline Press",
+        "weights" : [100,130,180,160,160,155],
+        "personalRecord" :[100,130,180,180,180,180],
+        "months" : ["December", "January", "Febuary", "March","April"]      
+    },
+    {
+        "name" : "Lunges",
+        "weights" : [20,20,25,30,25,30],
+        "personalRecord" :[22,22,25,30,25,30],
+        "months" : ["December", "January", "Febuary", "March","April"]      
+    },
+    {
+        "name" : "Skull Crushers",
+        "weights" : [12,15,20,20,25,26],
+        "personalRecord" :[20,20,20,20,25,26],
+        "months" : ["December", "January", "Febuary", "March","April"]      
+    },
+    {
+        "name" : "Decline Press",
+        "weights" : [50,50,45,40,60,65],
+        "personalRecord" :[50,50,45,60,60,65],
+        "months" : ["December", "January", "Febuary", "March","April"]      
+    }
+]

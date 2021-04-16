@@ -1,0 +1,23 @@
+[
+    {
+        "name" : "Personal leg workout",
+        "excercise1" : {
+            "excName" : "Calf Raises",
+            "excWeight" : 400,
+            "excRep" : 21,
+            "excSet" : 4
+        },
+        "excercise2" : {
+            "excName" : "Jumping Jacks",
+            "excWeight" : 0,
+            "excRep" : 100,
+            "excSet" : 5
+        },
+        "excercise3" : {
+            "excName" : "Stair Climbs",
+            "excWeight" : 0,
+            "excRep" : 100,
+            "excSet" : 4
+        }
+    }
+]

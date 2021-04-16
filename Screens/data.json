@@ -1,0 +1,68 @@
+//const customData = require('./customData.json');
+// import customData from './customData.json';
+
+[
+    {
+        "name" : "Preset leg workout",
+        "excercise1" : {
+            "excName" : "Leg Press",
+            "excWeight" : 300,
+            "excRep" : 12,
+            "excSet" : 4
+        },
+        "excercise2" : {
+            "excName" : "Squats",
+            "excWeight" : 250,
+            "excRep" : 8,
+            "excSet" : 4
+        },
+        "excercise3" : {
+            "excName" : "Lunges",
+            "excWeight" : 100,
+            "excRep" : 12,
+            "excSet" : 6
+        }
+    },
+    {
+        "name" : "Preset arm workout",
+        "excercise1" : {
+            "excName" : "Bicep Curls",
+            "excWeight" : 80,
+            "excRep" : 12,
+            "excSet" : 4
+        },
+        "excercise2" : {
+            "excName" : "Tricep Extensions",
+            "excWeight" : 50,
+            "excRep" : 12,
+            "excSet" : 4
+        },
+        "excercise3" : {
+            "excName" : "Skull Crushers",
+            "excWeight" : 100,
+            "excRep" : 10,
+            "excSet" : 5
+        }
+    },
+    {
+        "name" : "Preset chest workout",
+        "excercise1" : {
+            "excName" : "Bench Press",
+            "excWeight" : 250,
+            "excRep" : 12,
+            "excSet" : 4
+        },
+        "excercise2" : {
+            "excName" : "Incline Press",
+            "excWeight" : 200,
+            "excRep" : 15,
+            "excSet" : 4
+        },
+        "excercise3" : {
+            "excName" : "Decline Press",
+            "excWeight" : 180,
+            "excRep" : 15,
+            "excSet" : 5
+        }
+    }
+]
